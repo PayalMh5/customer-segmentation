@@ -63,11 +63,11 @@ The main results of this analysis include:
 
 2. **No. of Customers and their Total Searches in "Cluster 1"**
 
-   ![Customers count](https://github.com/PayalMh5/customer-segmentation/blob/main/cluster1.png)
+   ![Customers count]()
 
 1. **No. of times customers searched the products and their past Orders**
 
-   ![Customers count](https://github.com/PayalMh5/customer-segmentation/blob/main/Customers%20and%20their%20Total%20Searches.png)
+   ![Customers count](https://github.com/PayalMh5/customer-segmentation/blob/main/total.png)
 
 
 
