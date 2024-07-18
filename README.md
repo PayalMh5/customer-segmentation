@@ -59,5 +59,5 @@ The main results of this analysis include:
 
 1. **No. of Customers and their Total Searches in "Cluster 0"**
 
-   ![Customers count](C:\Users\Payal\Downloads\cluster0.png)
+   ![Customers count](https://github.com/PayalMh5/customer-segmentation/blob/main/Customers%20and%20their%20Total%20Searches.png)
 
