@@ -63,7 +63,7 @@ The main results of this analysis include:
 
 2. **No. of Customers and their Total Searches in "Cluster 1"**
 
-   ![Customers count]()
+   ![Customers count](cluster 1.png)
 
 1. **No. of times customers searched the products and their past Orders**
 
