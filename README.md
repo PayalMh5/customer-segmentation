@@ -63,7 +63,7 @@ The main results of this analysis include:
 
 2. **No. of Customers and their Total Searches in "Cluster 1"**
 
-   ![Customers count](cluster1.png)
+   ![Customers count](https://github.com/PayalMh5/customer-segmentation/blob/main/cluster%201.png)
 
 3. **No. of Customers and their Total Searches in "Cluster 2"**
 
