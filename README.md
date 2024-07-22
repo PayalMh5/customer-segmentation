@@ -5,6 +5,7 @@ This project analyzes customer data from an e-commerce platform, focusing on clu
 ## Table of Contents
 
 - [Project Overview](#project-overview)
+- [Working](#working)
 - [Data](#data)
 - [Installation](#installation)
 - [Analysis Process](#analysis-process)
@@ -17,6 +18,10 @@ This project aims to provide insights into customer behavior by analyzing their 
 1. Clustering customers based on their search behaviors.
 2. Calculating the total number of searches for each customer.
 3. Visualizing the number of customers and their total searches across different clusters and genders.
+
+## Working
+(https://github.com/PayalMh5/customer-segmentation/blob/main/loom-video.mp4)
+
 
 ## Data
 
